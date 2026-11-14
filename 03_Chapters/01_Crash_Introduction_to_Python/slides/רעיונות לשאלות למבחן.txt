@@ -1,0 +1,4 @@
+שאלה שבודקת הבדל בן 
+str.sort()
+list.sort()
+lst = lst.sort() vs. lst.sort()
